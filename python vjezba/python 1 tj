@@ -1,0 +1,12 @@
+a = 30
+b = int(input("unesi broj b"))
+c = int(input("unesi broj c"))
+
+d = (a + b) / c
+
+if d > 10:
+    print("d je veći od 10")
+    print(f"d iznosi:{d}")
+else:
+    print("nije veći od 10")
+    print(f"d iznosi: {d}")
