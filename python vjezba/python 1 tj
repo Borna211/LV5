@@ -10,3 +10,6 @@ if d > 10:
 else:
     print("nije veći od 10")
     print(f"d iznosi: {d}")
+ print("hello nworld")
+
+
